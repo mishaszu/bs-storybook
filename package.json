@@ -20,16 +20,15 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^7.0.1",
-    "reason-react": "^0.7.1"
+    "bs-platform": "^8.4.2"
   },
   "peerDependencies": {
-    "reason-react": "^0.7.1",
-    "@storybook/addon-actions": "^5.2.3",
-    "@storybook/addon-knobs": "^5.3.14",
-    "@storybook/addon-links": "^5.2.3",
+    "@rescript/react": "^0.10.1",
+    "@storybook/addon-actions": "^6.2.5",
+    "@storybook/addon-knobs": "^6.2.5",
+    "@storybook/addon-links": "^6.2.5",
     "@storybook/addon-options": "^5.3.14",
-    "@storybook/addons": "^5.2.3",
-    "@storybook/react": "^5.2.3"
+    "@storybook/addons": "^6.2.5",
+    "@storybook/react": "^6.2.5"
   }
 }

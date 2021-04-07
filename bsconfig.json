@@ -9,7 +9,7 @@
     "src"
   ],
   "bs-dependencies": [
-    "reason-react"
+    "@rescript/react"
   ],
   "reason": {
     "react-jsx": 3
